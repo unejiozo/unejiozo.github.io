@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unejiozo.github.io/BAK/sitemap_index.txt
+Sitemap: https://unejiozo.github.io/Hvt/sitemap_index.txt
+Sitemap: https://unejiozo.github.io/SYr/sitemap_index.txt
+Sitemap: https://unejiozo.github.io/lfg/sitemap_index.txt
